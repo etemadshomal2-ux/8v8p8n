@@ -1,0 +1,3 @@
+Source archive: 8vpn-5.8.zip
+Archive SHA-256: 39533dae4593a7eff3b4411c7d0a86be8e9174ad096040a12dc4910b8328fb69
+Original files recorded: 81
